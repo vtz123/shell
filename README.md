@@ -3,7 +3,7 @@ shell collection
 
 ## 1.绘制golang类图
 
-link <u>*github.com/Pingze-github/go-package-plantuml*</u>
+link  [github.com/Pingze-github/go-package-plantuml]()
 
 ```bash
 // 1.download and build plantuml
@@ -24,3 +24,6 @@ sh plantuml.sh  [code dir] [outputdir]
 sh plantuml ~/go/src/projectname ~/outputdir
 ```
 
+plant example:
+
+![](https://s1.ax1x.com/2020/05/07/Ye5lvj.png)
